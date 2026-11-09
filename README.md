@@ -1,4 +1,4 @@
-# Atelier Veral — Marcenaria de Móveis de Luxo Sob Medida
+# Atelier Veral — Marcenaria fictícia de Móveis de Luxo Sob Medida
 
 Site institucional e de conversão em formato *Single-Page* desenvolvido para o **Atelier Veral**, marcenaria especializada na concepção e execução de mobiliário sob medida de alto padrão em Taubaté – SP e região (Vale do Paraíba, Serra da Mantiqueira e Litoral Norte).
 
