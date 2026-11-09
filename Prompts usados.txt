@@ -1,5 +1,0 @@
-https://docs.google.com/document/d/1iV2s8CjjB5hyNf0Zi8av1xlVTcUP_3RzCRaV3kbdTu4/view?tab=t.0
-
-Atelier Veral, marcenaria de móveis de luxo sob medida
-
-Crie o arquivo GUIA-DA_MARCA.md na pasta marca. Depois, antes de criar qualquer coisa, me faça as perguntas que ainda faltam para documentar essa empresa, uma de cada vez. A empresa se chama Atelier Veral, uma merceária de móveis sob medida, e o objetivo do site é a pessoa pedir um projeto ou agendar uma visita ao showroom.
