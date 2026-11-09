@@ -1,0 +1,5 @@
+node_modules/
+.env
+.taste-skill/
+shots/
+*.log
